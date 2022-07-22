@@ -1,3 +1,3 @@
 # First bootstrap project
 
-- Just a simple website using the CSS framework - Bootstrap
+- Just a simple responsive website using the CSS framework - Bootstrap
